@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Fyu -->
-
 # Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
@@ -29,5 +27,3 @@ bash Fyu/install.sh <option>
 export prefix="${PREFIX:-/usr}"
 bash $prefix/opt/fyu/uninstall.sh <option>
 ```
-
-<!-- Copyright (c) 2026 Zeronetsec -->

@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Fyu -->
-
 # DISCLAIMER
 ## **Version 0.1 (Experimental Status)**
 This tool is currently in its early **v0.1** stage and is considered **unstable**. </br>
@@ -12,5 +10,3 @@ Due to current **compiler limitations** for the **D language** on native **Andro
 
 ## For Native Linux Users:
 If you are on a standard Linux distribution, **Fyu is 100% fully compatible** and runs natively without any bridges or overhead.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
