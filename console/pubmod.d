@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module console.pubmod;
 
@@ -21,4 +21,4 @@ public import module_.unfinish;
 public import module_.auto_remove;
 public import module_.info;
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

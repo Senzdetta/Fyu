@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module module_.uwu;
 
@@ -45,4 +45,4 @@ class Uwu : Command {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

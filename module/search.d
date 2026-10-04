@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module module_.search;
 
@@ -87,4 +87,4 @@ class Search : Command {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

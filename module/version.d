@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module module_.version_;
 
@@ -10,8 +10,8 @@ class Version : Command {
     void execute(string[] args) {
         enum string name = "Fyu";
         enum string ver = "v0.1.04102026";
-        enum string creator = "Zeronetsec";
-        enum string homepage = "https://github.com/Zeronetsec/Fyu";
+        enum string creator = "Senzdetta";
+        enum string homepage = "https://github.com/Senzdetta/Fyu";
 
         writef(
             "%sName: %s%s%s\n",
@@ -35,4 +35,4 @@ class Version : Command {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

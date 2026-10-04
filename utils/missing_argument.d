@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module utils.missing_argument;
 
@@ -17,4 +17,4 @@ void missingArgument() {
     );
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

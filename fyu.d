@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 import std.array : join;
 import std.range : drop;
@@ -10,4 +10,4 @@ int main(string[] args) {
     return 0;
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

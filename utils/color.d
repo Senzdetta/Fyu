@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Fyu
+// https://github.com/Senzdetta/Fyu
 
 module utils.color;
 
@@ -11,4 +11,4 @@ enum string color_CC = "\x1b[0;36m";
 enum string color_WW = "\x1b[0;37m";
 enum string color_YY = "\x1b[0;33m";
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

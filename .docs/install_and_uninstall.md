@@ -9,7 +9,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Fyu
+git clone https://github.com/Senzdetta/Fyu
 bash Fyu/install.sh <option>
 ```
 
