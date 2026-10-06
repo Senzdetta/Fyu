@@ -10,12 +10,12 @@ class Version : Command {
     void execute(string[] args) {
         enum string name = "Fyu";
         enum string ver = "v0.1.06102026";
-        enum string creator = "Senzdetta";
+        enum string developer = "Senzdetta";
         enum string homepage = "https://github.com/Senzdetta/Fyu";
 
         writef(
-            "%sName: %s%s%s\n",
-            color_N, color_GG, name, color_N,
+            "%s- %s%s %s-%s\n",
+            color_DG, color_GG, name, color_DG, color_N,
         );
 
         writef(
@@ -24,8 +24,8 @@ class Version : Command {
         );
 
         writef(
-            "%sCreator: %s%s%s\n",
-            color_N, color_GG, creator, color_N,
+            "%sDeveloper: %s%s%s\n",
+            color_N, color_GG, developer, color_N,
         );
 
         writef(
