@@ -23,8 +23,11 @@ class Uwu : Command {
             "(=^･ω･^=)"
         ];
 
+        string fixface = "(・ω・)";
+
         auto delay = 200.msecs;
         auto endTime = MonoTime.currTime + duration;
+
         size_t kaomoji = 0;
 
         writef("\x1b[?25l");
@@ -39,8 +42,10 @@ class Uwu : Command {
             kaomoji++;
         }
 
-        write("\x1b[K");
-        writefln("\x1b[?25h");
+        writef(
+            "\r%s\x1b[K\x1b[?25h\n",
+            fixface,
+        );
         stdout.flush();
     }
 }
