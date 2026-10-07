@@ -1,5 +1,5 @@
 function install::extern::androidInpackages() {
-    command mapfile -t packages < <(
+    builtin mapfile -t packages < <(
         command cat "${root}/.install/extern/termux_packages.txt"
     )
 
