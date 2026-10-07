@@ -1,4 +1,6 @@
-# Installation
+# INSTALL AND UNINSTALL
+
+## Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
 - └── override `$HOME` value.
@@ -13,7 +15,7 @@ git clone https://github.com/Senzdetta/Fyu
 bash Fyu/install.sh <option>
 ```
 
-# Uninstallation
+## Uninstallation
 `uninstall.sh` optional options (can be used together):
 - `--home=<path>`
 - └── override `$HOME` value.
