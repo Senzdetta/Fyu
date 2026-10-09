@@ -41,7 +41,7 @@ function install::extern::androidInstaller() {
     install::getinstall \
         "
             echo '
-                #!/usr/bin/env bash
+                #!$(command -v bash)
                 exec -a Fyu \
                     glibc-runner \
                     ${opt}/${targetins}/${targetins} \${*}
